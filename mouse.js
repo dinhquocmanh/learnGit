@@ -2,4 +2,4 @@ function Mouse(name) {
 
 }
 
-modules.export = Mouse;
+module.exports = Mouse;
